@@ -40,8 +40,27 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt  # (when dependencies are added)
 ```
+
 ## License
 
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 
 See [LICENSE](LICENSE) for full terms.
+
+## License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+See [LICENSE](LICENSE) for full terms.
+
+## Contributing
+
+This project is currently under solo development and is not accepting outside contributions at this time.
+
+If you're interested in the project or have suggestions, feel free to open an issue or contact the author directly.
+
+A full CONTRIBUTING guide may be added in the future.
+
+## Contact
+
+For questions, feedback, or collaboration inquiries, please reach out to the project author through the GitHub at [github.com/nmiller2379](https://github.com/nmiller2379)
