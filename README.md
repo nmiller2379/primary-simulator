@@ -47,12 +47,6 @@ This project is licensed under the Creative Commons Attribution-NonCommercial 4.
 
 See [LICENSE](LICENSE) for full terms.
 
-## License
-
-This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
-
-See [LICENSE](LICENSE) for full terms.
-
 ## Contributing
 
 This project is currently under solo development and is not accepting outside contributions at this time.
