@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Editor settings (VS Code)
+.vscode/
+
+# Unit test caches
+.pytest_cache/
+.cache/
+.coverage
+htmlcov/
+
+# Type checker (mypy)
+.mypy_cache/
+
+# Logs and debugging
+*.log
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Optional data output (if you start exporting results)
+*.csv
+*.json
+*.yaml
+*.yml
+output/
